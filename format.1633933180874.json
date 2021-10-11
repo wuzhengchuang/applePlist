@@ -1,0 +1,703 @@
+[
+    {
+        "Identifier":[
+            "iPhone1,1"
+        ],
+        "name":"iPhone",
+        "price":"10",
+        "color":[
+            "Black"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone1,2"
+        ],
+        "name":"iPhone 3G",
+        "price":"10",
+        "color":[
+            "White",
+            "Black"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone2,1"
+        ],
+        "name":"iPhone 3GS",
+        "price":"20",
+        "color":[
+            "White",
+            "Black"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone3,1",
+            "iPhone3,2",
+            "iPhone3,3"
+        ],
+        "name":"iPhone 4",
+        "price":"15",
+        "color":[
+            "White",
+            "Black"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone4,1"
+        ],
+        "name":"iPhone 4S",
+        "price":"25",
+        "color":[
+            "White",
+            "Black"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone5,1",
+            "iPhone5,2"
+        ],
+        "name":"iPhone 5",
+        "price":"35",
+        "color":[
+            "Black & Slate",
+            "White & Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone5,3",
+            "iPhone5,4"
+        ],
+        "name":"iPhone 5c",
+        "price":"35",
+        "color":[
+            "Pink",
+            "White",
+            "Yellow",
+            "Blue",
+            "Green"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone6,1",
+            "iPhone6,2"
+        ],
+        "name":"iPhone 5s",
+        "price":"65",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone7,2"
+        ],
+        "name":"iPhone 6",
+        "price":"280",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone7,1"
+        ],
+        "name":"iPhone 6 Plus",
+        "price":"490",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone8,1"
+        ],
+        "name":"iPhone 6s",
+        "price":"330",
+        "color":[
+            "Space Gray",
+            "Gold",
+            "Rose Gold",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone8,2"
+        ],
+        "name":"iPhone 6s Plus",
+        "price":"490",
+        "color":[
+            "Space Gray",
+            "Gold",
+            "Rose Gold",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone8,4"
+        ],
+        "name":"iPhone SE (1st generation)",
+        "price":"460",
+        "color":[
+            "Space Gray",
+            "Gold",
+            "Rose Gold",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone9,3",
+            "iPhone9,1"
+        ],
+        "name":"iPhone 7",
+        "price":"600",
+        "color":[
+            "Black",
+            "Jet Black",
+            "PRODUCT(RED)",
+            "Gold",
+            "Rose Gold",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone9,2",
+            "iPhone9,4"
+        ],
+        "name":"iPhone 7 Plus",
+        "price":"1260",
+        "color":[
+            "Black",
+            "Jet Black",
+            "PRODUCT(RED)",
+            "Gold",
+            "Rose Gold",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone10,1",
+            "iPhone10,4"
+        ],
+        "name":"iPhone 8",
+        "price":"1100",
+        "color":[
+            "PRODUCT(RED)",
+            "Space Gray",
+            "Gold",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone10,2",
+            "iPhone10,5"
+        ],
+        "name":"iPhone 8 Plus",
+        "price":"1550",
+        "color":[
+            "PRODUCT(RED)",
+            "Space Gray",
+            "Gold",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone10,3",
+            "iPhone10,6"
+        ],
+        "name":"iPhone X",
+        "price":"2000",
+        "color":[
+            "Space Gray",
+            "Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone11,8"
+        ],
+        "name":"iPhone XR",
+        "price":"2700",
+        "color":[
+            "Yellow",
+            "White",
+            "PRODUCT(RED)",
+            "Coral",
+            "Black",
+            "Blue"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone11,2"
+        ],
+        "name":"iPhone XS",
+        "price":"2500",
+        "color":[
+            "Silver",
+            "Gold",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone11,4",
+            "iPhone11,6"
+        ],
+        "name":"iPhone XS Max",
+        "price":"3100",
+        "color":[
+            "Silver",
+            "Gold",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone12,1"
+        ],
+        "name":"iPhone 11",
+        "price":"3500",
+        "color":[
+            "Yellow",
+            "Black",
+            "Green",
+            "PRODUCT(RED)",
+            "Purple",
+            "White"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone12,3"
+        ],
+        "name":"iPhone 11 Pro",
+        "price":"3740",
+        "color":[
+            "Gold",
+            "Midnight Green",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone12,5"
+        ],
+        "name":"iPhone 11 Pro Max",
+        "price":"4600",
+        "color":[
+            "Gold",
+            "Midnight Green",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone12,8"
+        ],
+        "name":"iPhone SE (2nd generation)",
+        "price":"1800",
+        "color":[
+            "White",
+            "Black",
+            "PRODUCT(RED)"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone13,1"
+        ],
+        "name":"iPhone 12 mini",
+        "price":"3400",
+        "color":[
+            "Green",
+            "Blue",
+            "Purple",
+            "White",
+            "Black",
+            "PRODUCT(RED)"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone13,2"
+        ],
+        "name":"iPhone 12",
+        "price":"4200",
+        "color":[
+            "Green",
+            "Blue",
+            "Purple",
+            "White",
+            "Black",
+            "PRODUCT(RED)"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone13,3"
+        ],
+        "name":"iPhone 12 Pro",
+        "price":"6000",
+        "color":[
+            "Silver",
+            "Graphite",
+            "Gold",
+            "Pacific Blue"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone13,4"
+        ],
+        "name":"iPhone 12 Pro Max",
+        "price":"7000",
+        "color":[
+            "Silver",
+            "Graphite",
+            "Gold",
+            "Pacific Blue"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone14,4"
+        ],
+        "name":"iPhone 13 mini",
+        "price":"5199",
+        "color":[
+            "PRODUCT(RED)",
+            "Starlight",
+            "Midnight",
+            "Blue",
+            "Pink"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone14,5"
+        ],
+        "name":"iPhone 13",
+        "price":"5999",
+        "color":[
+            "PRODUCT(RED)",
+            "Starlight",
+            "Midnight",
+            "Blue",
+            "Pink"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone14,2"
+        ],
+        "name":"iPhone 13 Pro",
+        "price":"8799",
+        "color":[
+            "Graphite",
+            "Gold",
+            "Silver",
+            "Sierra Blue"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPhone14,3"
+        ],
+        "name":"iPhone 13 Pro Max",
+        "price":"9799",
+        "color":[
+            "Graphite",
+            "Gold",
+            "Silver",
+            "Sierra Blue"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad4,1",
+            "iPad4,2",
+            "iPad4,3"
+        ],
+        "name":"iPad Air",
+        "price":"800",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad5,3",
+            "iPad5,4"
+        ],
+        "name":"iPad Air 2",
+        "price":"1050",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad11,3",
+            "iPad11,4"
+        ],
+        "name":"iPad Air (3rd generation)",
+        "price":"2840",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad13,2"
+        ],
+        "name":"iPad Air (4th generation)",
+        "price":"4300",
+        "color":[
+            "Sky Blue",
+            "Green",
+            "Rose Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad6,7",
+            "iPad6,8"
+        ],
+        "name":"iPad Pro (12.9-inch)",
+        "price":"2500",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad6,3",
+            "iPad6,4"
+        ],
+        "name":"iPad Pro (9.7-inch)",
+        "price":"1700",
+        "color":[
+            "Rose Gold",
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad7,1",
+            "iPad7,2"
+        ],
+        "name":"iPad Pro (12.9-inch) (2nd generation)",
+        "price":"2500",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad7,3",
+            "iPad7,4"
+        ],
+        "name":"iPad Pro (10.5-inch)",
+        "price":"1960",
+        "color":[
+            "Rose Gold",
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad8,4",
+            "iPad8,3",
+            "iPad8,1",
+            "iPad8,2"
+        ],
+        "name":"iPad Pro (11-inch)",
+        "price":"4140",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad8,5",
+            "iPad8,6",
+            "iPad8,7",
+            "iPad8,8"
+        ],
+        "name":"iPad Pro (12.9-inch) (3rd generation)",
+        "price":"3800",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad8,9",
+            "iPad8,10"
+        ],
+        "name":"iPad Pro (11-inch) (2nd generation)",
+        "price":"5200",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad8,11",
+            "iPad8,12"
+        ],
+        "name":"iPad Pro (12.9-inch) (4th generation)",
+        "price":"5900",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad13,4",
+            "iPad13,5",
+            "iPad13,6",
+            "iPad13,7"
+        ],
+        "name":"iPad Pro (11-inch) (3rd generation)",
+        "price":"8960",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad13,8",
+            "iPad13,9",
+            "iPad13,10",
+            "iPad13,11"
+        ],
+        "name":"iPad Pro (12.9-inch) (5th generation)",
+        "price":"11900",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad2,5",
+            "iPad2,6",
+            "iPad2,7"
+        ],
+        "name":"iPad mini",
+        "price":"240",
+        "color":[
+            "Black & Slate",
+            "White & Silver"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad4,4",
+            "iPad4,5",
+            "iPad4,6"
+        ],
+        "name":"iPad mini 2",
+        "price":"440",
+        "color":[
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad4,7",
+            "iPad4,8",
+            "iPad4,9"
+        ],
+        "name":"iPad mini 3",
+        "price":"560",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad5,1",
+            "iPad5,2"
+        ],
+        "name":"iPad mini 4",
+        "price":"1100",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad11,1",
+            "iPad11,2"
+        ],
+        "name":"iPad mini (5th generation)",
+        "price":"2800",
+        "color":[
+            "Gold",
+            "Silver",
+            "Space Gray"
+        ]
+    },
+    {
+        "Identifier":[
+            "iPad14,1",
+            "iPad14,2"
+        ],
+        "name":"iPad mini (6th generation)",
+        "price":"3799",
+        "color":[
+            "Starlight",
+            "Pink",
+            "Purple",
+            "Space Gray"
+        ]
+    }
+]
